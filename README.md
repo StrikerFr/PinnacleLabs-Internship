@@ -4,8 +4,17 @@
 
 <div align="center">
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-ai--taskpilot.vercel.app-F26B5B?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-taskpilot.vercel.app)
-[![Video Showcase](https://img.shields.io/badge/Video%20Showcase-Play%20Demo-FF5E62?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4)
+  <a href="https://ai-taskpilot.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Website-ai--taskpilot.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/Video_Showcase-Watch_Demo-FF5E62?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Video Demo" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/StrikerFr/PinnacleLabs-Internship/tree/Task1-AryanGarg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Repo-Task1--AryanGarg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" height="40"/>
+  </a>
 
 </div>
 
@@ -54,6 +63,23 @@ Sleek, cream-based dashboard layouts built for focus, time blocking, habit loops
 
 <p align="center">
   <img src="public/screenshots/ivory_mode.png" alt="Ivory Mode Dashboard" width="100%" />
+</p>
+
+### 📊 Application Showcase & Features
+
+#### 🛠️ Dashboard & Today's Schedule Overview
+<p align="center">
+  <img src="public/screenshots/ss1.png" alt="TaskPilot Dashboard and Scheduling Screen" width="100%" />
+</p>
+
+#### 🗺️ Custom AI Roadmaps & Milestones Tracker
+<p align="center">
+  <img src="public/screenshots/ss2.png" alt="TaskPilot Roadmap Generation Screen" width="100%" />
+</p>
+
+#### 👤 Profile Coordinates & Dossier Sync Settings
+<p align="center">
+  <img src="public/screenshots/ss3.png" alt="TaskPilot Settings Dossier Screen" width="100%" />
 </p>
 
 ---
