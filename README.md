@@ -2,6 +2,13 @@
 
 > **Turn any goal into a daily action plan.** An intelligent, AI-driven daily planner and career coach designed to help student builders stay on track and construct structured paths to their goals.
 
+<div align="center">
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-ai--taskpilot.vercel.app-F26B5B?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-taskpilot.vercel.app)
+[![Video Showcase](https://img.shields.io/badge/Video%20Showcase-Play%20Demo-FF5E62?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4)
+
+</div>
+
 ---
 
 ## 🌟 Key Features
@@ -16,6 +23,38 @@
 - **AI Roadmap Blueprint Generator**: Input any ambition (e.g., "Crack Google Interview", "Learn React in 30 days") to generate a multi-phase learning timeline complete with study targets, resources, projects, and milestone outcomes.
 - **Apple Health-inspired Schedule List**: Fully customizable, drag-free timeline blocking to map out your day. Contains inline task checklists, Pomodoro timer integrations, and confetti completion animations.
 - **Identity Dossier & settings**: Complete settings panel to sync personal credentials, institutional year, GPA, target companies, and current skills.
+
+---
+
+## 🎥 Video Showcase
+
+Watch TaskPilot AI in action:
+
+<div align="center">
+  <video src="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4" width="100%" controls poster="public/screenshots/obsidian_mode.png"></video>
+  <br />
+  <sub>💡 <i>Can't see the player? Watch it directly <a href="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4">here</a>.</i></sub>
+</div>
+
+---
+
+## 📸 Screenshots
+
+### 🌌 Obsidian Mode (Landing Page)
+
+An immersive 3D landing page with drifting auroras, customizable monolith layouts, and particles powered by Three.js & Framer Motion.
+
+<p align="center">
+  <img src="public/screenshots/obsidian_mode.png" alt="Obsidian Mode Landing Page" width="100%" />
+</p>
+
+### 🌅 Ivory Mode (Onboarding & Mentorship Dashboard)
+
+Sleek, cream-based dashboard layouts built for focus, time blocking, habit loops, and interactive career coaching.
+
+<p align="center">
+  <img src="public/screenshots/ivory_mode.png" alt="Ivory Mode Dashboard" width="100%" />
+</p>
 
 ---
 
