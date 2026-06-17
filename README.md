@@ -40,7 +40,7 @@
 Watch TaskPilot AI in action:
 
 <div align="center">
-  <video src="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4" width="100%" controls poster="public/screenshots/obsidian_mode.png"></video>
+  <video src="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4" width="100%" controls poster="public/screenshots/ss1.png"></video>
   <br />
   <sub>💡 <i>Can't see the player? Watch it directly <a href="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/pinnacle1st.mp4">here</a>.</i></sub>
 </div>
@@ -49,35 +49,22 @@ Watch TaskPilot AI in action:
 
 ## 📸 Screenshots
 
-### 🌌 Obsidian Mode (Landing Page)
-
-An immersive 3D landing page with drifting auroras, customizable monolith layouts, and particles powered by Three.js & Framer Motion.
-
-<p align="center">
-  <img src="public/screenshots/obsidian_mode.png" alt="Obsidian Mode Landing Page" width="100%" />
-</p>
-
-### 🌅 Ivory Mode (Onboarding & Mentorship Dashboard)
-
-Sleek, cream-based dashboard layouts built for focus, time blocking, habit loops, and interactive career coaching.
-
-<p align="center">
-  <img src="public/screenshots/ivory_mode.png" alt="Ivory Mode Dashboard" width="100%" />
-</p>
-
 ### 📊 Application Showcase & Features
 
 #### 🛠️ Dashboard & Today's Schedule Overview
+An interactive cream-based dashboard containing task checklists, real-time activity rings, Pomodoro timers, and calendar integrations.
 <p align="center">
   <img src="public/screenshots/ss1.png" alt="TaskPilot Dashboard and Scheduling Screen" width="100%" />
 </p>
 
 #### 🗺️ Custom AI Roadmaps & Milestones Tracker
+Generate multi-phase professional timelines, study targets, reference links, and project milestones using Groq Llama 3 models.
 <p align="center">
   <img src="public/screenshots/ss2.png" alt="TaskPilot Roadmap Generation Screen" width="100%" />
 </p>
 
 #### 👤 Profile Coordinates & Dossier Sync Settings
+Customize personal parameters including target roles, GPA metrics, skill portfolios, and dream companies to align the AI strategist.
 <p align="center">
   <img src="public/screenshots/ss3.png" alt="TaskPilot Settings Dossier Screen" width="100%" />
 </p>
