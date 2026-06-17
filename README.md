@@ -4,13 +4,13 @@
 
 WeatherWatch AI is an immersive, cinematic, real-time planetary weather monitoring and predictive forecasting dashboard. It combines custom WebGL 3D shaders, physics-based canvas particle fields, and AI-powered narration to transform standard meteorological metrics into actionable, high-fidelity environmental intelligence.
 
-🌍 **Live Website:** [weatherwatch-ai.vercel.app](https://weatherwatch-ai.vercel.app/)
+**Live Website:** [weatherwatch-ai.vercel.app](https://weatherwatch-ai.vercel.app/)
 
-🎥 **Video Showcase:** [Showcase Demo Video](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/weatherwatch.mp4)
+**Video Showcase:** [Showcase Demo Video](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/weatherwatch.mp4)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Cinematic Orbit & Global Telemetry
 ![Planetary Stage](docs/screenshots/ss1.png)
@@ -20,7 +20,7 @@ WeatherWatch AI is an immersive, cinematic, real-time planetary weather monitori
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dynamic Planetary Stage:** A 3D WebGL Earth utilizing custom vertex/fragment shaders for real-time land mass rendering, ocean depth blending, day/night city lights glow, sunset/sunrise terminators, and dynamic fresnel rim scattering.
 - **Micro-climate Particles:** Cursor-interactive HTML5 Canvas 2D simulation representing fine PM2.5 particles, dust, pollen, and humidity settling across a dense, scrollable atmosphere.
@@ -31,7 +31,7 @@ WeatherWatch AI is an immersive, cinematic, real-time planetary weather monitori
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Core Framework:** [TanStack Start](https://tanstack.com/router/v1/docs/start/overview) (full-stack React with file-based routing and SSR)
 - **State & Queries:** TanStack React Query (`@tanstack/react-query`)
@@ -44,7 +44,7 @@ WeatherWatch AI is an immersive, cinematic, real-time planetary weather monitori
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```text
 weatherwatch-ai/
@@ -70,7 +70,7 @@ weatherwatch-ai/
 │   ├── start.ts              # Client bootstrapping and middlewares
 │   ├── server.ts             # Server runtime and SSR configurations
 │   ├── router.tsx            # Router instantiation
-│   └── styles.css            # Tailwind CSS v4 config and global theme layers
+│   └── styles.css            # Tailwind CSS vlayer configs and theme variables
 ├── .env.example              # Placeholder config variables
 ├── .gitignore                # System and lock files mapping
 ├── bun.lock                  # Lockfile for Bun package manager
@@ -81,7 +81,7 @@ weatherwatch-ai/
 
 ---
 
-## ⚙️ Environment Variables
+## Environment Variables
 
 The application requires a Groq API key to activate the AI Narration and localized weather reporting. Create a `.env` file in the project root:
 
@@ -92,15 +92,15 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 Make sure you have Node.js (v18+) or Bun installed.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/weatherwatch-ai.git
-cd weatherwatch-ai
+git clone https://github.com/StrikerFr/PinnacleLabs-Internship.git
+cd PinnacleLabs-Internship
 ```
 
 ### 2. Install dependencies
@@ -130,7 +130,7 @@ npm run build
 
 ---
 
-## 🏛️ Architecture & Data Flow
+## Architecture & Data Flow
 
 ```mermaid
 graph TD
@@ -153,14 +153,14 @@ graph TD
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
-- [ ] **Volumetric Fog Shaders:** Implement true ray-marched fog inside the Three.js viewport for a more volumetric atmosphere.
-- [ ] **Cross-Continental Telemetry:** Add visual indicators overlaying coordinates directly onto the 3D globe to dynamically highlight weather anomalies.
-- [ ] **Search Autocomplete:** Integrate Google Places / Open-Meteo geocoding search to allow users to inspect any coordinate on the planet.
+- **Volumetric Fog Shaders:** Implement true ray-marched fog inside the Three.js viewport for a more volumetric atmosphere.
+- **Cross-Continental Telemetry:** Add visual indicators overlaying coordinates directly onto the 3D globe to dynamically highlight weather anomalies.
+- **Search Autocomplete:** Integrate Google Places / Open-Meteo geocoding search to allow users to inspect any coordinate on the planet.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
