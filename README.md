@@ -96,9 +96,9 @@ Features include:
 
 **Aryan Garg**
 
-* [GitHub](https://github.com/AryanGargPlaceholder)
-* [LinkedIn](https://linkedin.com/in/AryanGargPlaceholder)
-* [Portfolio](https://aryangarg.com)
+* [GitHub](https://github.com/StrikerFr)
+* [LinkedIn](https://www.linkedin.com/in/aryan-garg-828747381/)
+* [Portfolio](https://www.arynx.in/)
 
 ---
 
