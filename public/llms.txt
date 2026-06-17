@@ -1,0 +1,18 @@
+# VedaGlows
+
+> Modern Ayurvedic skincare made in India. A simple 28-day, 3-step ritual — Daily Clean, Glow Repair and Deep Detox — to reduce breakouts, balance oil and restore your natural glow.
+
+VedaGlows combines traditional Ayurvedic herbs with modern formulation to create gentle, effective skincare for Indian skin. The flagship product is the 28-Day Skin Reset Kit, available as 1, 2 or 3-kit bundles. Free shipping across India, Cash on Delivery available, and a 7-day satisfaction promise.
+
+## Pages
+
+- [Home](/): The 28-Day Skin Reset Kit, ingredients, real customer results and pricing.
+- [About](/about): Brand story, mission and the herbal-first approach.
+- [FAQs](/faqs): Common questions on products, ingredients, shipping and returns.
+- [Customer Support](/support): Email, phone, WhatsApp and Instagram contact details.
+- [Refund Policy](/refund): 7-day satisfaction promise and return terms.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms & Conditions](/terms)
