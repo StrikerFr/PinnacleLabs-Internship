@@ -1,0 +1,1285 @@
+{
+  "profiles": {
+    "local_user_1": {
+      "id": "local_user_1",
+      "name": "Alex",
+      "current_role": "Software Engineer",
+      "target_role": "Senior Full Stack Engineer",
+      "industry": "Tech",
+      "experience": "2 years building React apps",
+      "skills": ["React", "TypeScript", "Node.js"],
+      "focus_areas": ["System Design", "Advanced State Management"],
+      "timezone": "America/Los_Angeles",
+      "updated_at": "2026-06-08T19:33:16.306Z",
+      "full_name": "aryan garg",
+      "education": "btech cse",
+      "current_year": "2nd ",
+      "cgpa": 8,
+      "projects": [],
+      "target_timeline": "6 months",
+      "onboarded": true
+    }
+  },
+  "roadmaps": [
+    {
+      "id": "4ca749d8-3f99-47fc-b97b-4858d1bb8261",
+      "user_id": "local_user_1",
+      "goal": "30-day get better challenge in fitness, mindset, and money",
+      "estimated_duration": "6 months",
+      "phases": [
+        {
+          "title": "Phase 1: Setting Foundations",
+          "durationWeeks": 4,
+          "objectives": [
+            "Create a daily routine that includes 30 minutes of physical exercise",
+            "Start a meditation practice with a goal of 10 minutes per day",
+            "Begin tracking daily expenses to understand spending habits"
+          ],
+          "resources": [
+            {
+              "title": "Headspace Meditation App",
+              "type": "app",
+              "url": "https://www.headspace.com/"
+            },
+            {
+              "title": "Nike Training Club Fitness App",
+              "type": "app",
+              "url": "https://www.nike.com/us/en_us/c/training-club"
+            },
+            {
+              "title": "Mint Budgeting App",
+              "type": "app",
+              "url": "https://www.mint.com/"
+            },
+            {
+              "title": "The 7 Habits of Highly Effective People",
+              "type": "book",
+              "url": "https://www.amazon.com/7-Habits-Highly-Effective-People/dp/0743269519"
+            },
+            {
+              "title": "Fitness Blender Workout Videos",
+              "type": "video",
+              "url": "https://www.fitnessblender.com/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Create a Personal Budget",
+              "description": "Use the Mint app to track expenses and create a budget that allocates 50% of income towards necessary expenses, 30% towards discretionary spending, and 20% towards saving and debt repayment"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Download and set up the Headspace and Nike Training Club apps",
+              "priority": "medium",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Start a meditation practice with a goal of 10 minutes per day",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Begin tracking daily expenses using the Mint app",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Create a daily routine that includes 30 minutes of physical exercise",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Read The 7 Habits of Highly Effective People",
+              "priority": "medium",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Watch Fitness Blender workout videos and create a workout plan",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Review and adjust the daily routine as needed",
+              "priority": "low",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Create a budget and track expenses using the Mint app",
+              "priority": "high",
+              "estimatedHours": 10
+            }
+          ],
+          "milestone": "Complete the first 30-day challenge and review progress"
+        },
+        {
+          "title": "Phase 2: Building Momentum",
+          "durationWeeks": 4,
+          "objectives": [
+            "Increase physical exercise to 45 minutes per day",
+            "Increase meditation practice to 15 minutes per day",
+            "Start a journaling practice to track progress and reflect on experiences"
+          ],
+          "resources": [
+            {
+              "title": "Couch to 5K Running App",
+              "type": "app",
+              "url": "https://www.c25k.com/"
+            },
+            {
+              "title": "Insight Timer Meditation App",
+              "type": "app",
+              "url": "https://insighttimer.com/"
+            },
+            {
+              "title": "The Power of Now",
+              "type": "book",
+              "url": "https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808"
+            },
+            {
+              "title": "Journaling Prompts",
+              "type": "article",
+              "url": "https://www.journalingprompts.com/"
+            },
+            {
+              "title": "Yoga With Adriene",
+              "type": "video",
+              "url": "https://www.yogawithadriene.com/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Create a Workout Plan",
+              "description": "Use the Couch to 5K app to create a workout plan that includes 3 runs per week and 2 rest days"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Download and set up the Couch to 5K and Insight Timer apps",
+              "priority": "medium",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Increase physical exercise to 45 minutes per day",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Increase meditation practice to 15 minutes per day",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Start a journaling practice using the Journaling Prompts article",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Read The Power of Now",
+              "priority": "medium",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Watch Yoga With Adriene videos and create a yoga practice",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Review and adjust the workout plan as needed",
+              "priority": "low",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Create a journaling habit and track progress",
+              "priority": "high",
+              "estimatedHours": 10
+            }
+          ],
+          "milestone": "Complete the second 30-day challenge and review progress"
+        },
+        {
+          "title": "Phase 3: Enhancing Mindset",
+          "durationWeeks": 4,
+          "objectives": [
+            "Develop a growth mindset and learn to embrace challenges",
+            "Improve self-awareness and self-regulation",
+            "Start a gratitude practice to cultivate positivity"
+          ],
+          "resources": [
+            {
+              "title": "Mindset: The New Psychology of Success",
+              "type": "book",
+              "url": "https://www.amazon.com/Mindset-Psychology-Success-Carol-S-Dweck/dp/0345472322"
+            },
+            {
+              "title": "The 5 AM Club",
+              "type": "book",
+              "url": "https://www.amazon.com/5-AM-Club-Own-Your/dp/1443455864"
+            },
+            {
+              "title": "Gratitude Practice",
+              "type": "article",
+              "url": "https://www.gratitudepractice.com/"
+            },
+            {
+              "title": "TED Talks on Mindset",
+              "type": "video",
+              "url": "https://www.ted.com/topics/mindset"
+            },
+            {
+              "title": "Happier with Gretchen Rubin",
+              "type": "podcast",
+              "url": "https://www.happiercast.com/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Create a Morning Routine",
+              "description": "Use the 5 AM Club book to create a morning routine that includes 30 minutes of meditation, 30 minutes of journaling, and 30 minutes of exercise"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Read Mindset: The New Psychology of Success",
+              "priority": "medium",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Develop a growth mindset and learn to embrace challenges",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Improve self-awareness and self-regulation",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Start a gratitude practice using the Gratitude Practice article",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Watch TED Talks on Mindset",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Listen to the Happier with Gretchen Rubin podcast",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Review and adjust the morning routine as needed",
+              "priority": "low",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Create a gratitude habit and track progress",
+              "priority": "high",
+              "estimatedHours": 10
+            }
+          ],
+          "milestone": "Complete the third 30-day challenge and review progress"
+        },
+        {
+          "title": "Phase 4: Mastering Money",
+          "durationWeeks": 4,
+          "objectives": [
+            "Create a budget and track expenses",
+            "Start a savings plan and emergency fund",
+            "Invest in a retirement account"
+          ],
+          "resources": [
+            {
+              "title": "The Total Money Makeover",
+              "type": "book",
+              "url": "https://www.amazon.com/Total-Money-Makeover-Classic/dp/1937075631"
+            },
+            {
+              "title": "You Need a Budget (YNAB)",
+              "type": "app",
+              "url": "https://www.youneedabudget.com/"
+            },
+            {
+              "title": "The Simple Path to Wealth",
+              "type": "book",
+              "url": "https://www.amazon.com/Simple-Path-Wealth-Your/dp/1533667926"
+            },
+            {
+              "title": "Investopedia",
+              "type": "article",
+              "url": "https://www.investopedia.com/"
+            },
+            {
+              "title": "The Dave Ramsey Show",
+              "type": "podcast",
+              "url": "https://www.daveramsey.com/show/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Create a Budget and Savings Plan",
+              "description": "Use the You Need a Budget (YNAB) app to create a budget that allocates 50% of income towards necessary expenses, 30% towards discretionary spending, and 20% towards saving and debt repayment"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Read The Total Money Makeover",
+              "priority": "medium",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Create a budget and track expenses using the YNAB app",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Start a savings plan and emergency fund",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Invest in a retirement account",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Read The Simple Path to Wealth",
+              "priority": "medium",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Learn about investing using Investopedia",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Listen to The Dave Ramsey Show podcast",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Review and adjust the budget and savings plan as needed",
+              "priority": "low",
+              "estimatedHours": 2
+            }
+          ],
+          "milestone": "Complete the fourth 30-day challenge and review progress"
+        },
+        {
+          "title": "Phase 5: Sustaining Progress",
+          "durationWeeks": 4,
+          "objectives": [
+            "Maintain a consistent workout routine",
+            "Continue to practice mindfulness and meditation",
+            "Review and adjust the budget and savings plan as needed"
+          ],
+          "resources": [
+            {
+              "title": "The Habit Loop",
+              "type": "article",
+              "url": "https://www.charlesduhigg.com/the-power-of-habit/"
+            },
+            {
+              "title": "The One Thing",
+              "type": "book",
+              "url": "https://www.amazon.com/One-Thing-Surprisingly-Simple/dp/1885167776"
+            },
+            {
+              "title": "Mindful.org",
+              "type": "article",
+              "url": "https://www.mindful.org/"
+            },
+            {
+              "title": "The Tim Ferriss Show",
+              "type": "podcast",
+              "url": "https://tim.blog/podcast/"
+            },
+            {
+              "title": "Habitica",
+              "type": "app",
+              "url": "https://habitica.com/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Create a Habit Tracker",
+              "description": "Use the Habitica app to create a habit tracker that includes daily habits such as exercise, meditation, and journaling"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Read The One Thing",
+              "priority": "medium",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Maintain a consistent workout routine",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Continue to practice mindfulness and meditation",
+              "priority": "high",
+              "estimatedHours": 10
+            },
+            {
+              "title": "Review and adjust the budget and savings plan as needed",
+              "priority": "low",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Learn about the habit loop using The Habit Loop article",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Read Mindful.org articles",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Listen to The Tim Ferriss Show podcast",
+              "priority": "medium",
+              "estimatedHours": 5
+            },
+            {
+              "title": "Use the Habitica app to track habits",
+              "priority": "high",
+              "estimatedHours": 10
+            }
+          ],
+          "milestone": "Complete the fifth 30-day challenge and review progress"
+        }
+      ],
+      "milestones": [
+        {
+          "title": "Complete the first 30-day challenge",
+          "weekNumber": 4,
+          "description": "Review progress and adjust the daily routine as needed"
+        },
+        {
+          "title": "Complete the second 30-day challenge",
+          "weekNumber": 8,
+          "description": "Review progress and adjust the workout plan as needed"
+        },
+        {
+          "title": "Complete the third 30-day challenge",
+          "weekNumber": 12,
+          "description": "Review progress and adjust the morning routine as needed"
+        },
+        {
+          "title": "Complete the fourth 30-day challenge",
+          "weekNumber": 16,
+          "description": "Review progress and adjust the budget and savings plan as needed"
+        },
+        {
+          "title": "Complete the fifth 30-day challenge",
+          "weekNumber": 20,
+          "description": "Review progress and adjust the habit tracker as needed"
+        }
+      ],
+      "weekly_plan": [
+        {
+          "week": 1,
+          "focus": "Setting Foundations",
+          "tasks": [
+            "Download and set up the Headspace and Nike Training Club apps",
+            "Start a meditation practice with a goal of 10 minutes per day",
+            "Begin tracking daily expenses using the Mint app"
+          ]
+        },
+        {
+          "week": 2,
+          "focus": "Building Momentum",
+          "tasks": [
+            "Increase physical exercise to 45 minutes per day",
+            "Increase meditation practice to 15 minutes per day",
+            "Start a journaling practice using the Journaling Prompts article"
+          ]
+        },
+        {
+          "week": 3,
+          "focus": "Enhancing Mindset",
+          "tasks": [
+            "Develop a growth mindset and learn to embrace challenges",
+            "Improve self-awareness and self-regulation",
+            "Start a gratitude practice using the Gratitude Practice article"
+          ]
+        },
+        {
+          "week": 4,
+          "focus": "Mastering Money",
+          "tasks": [
+            "Create a budget and track expenses using the YNAB app",
+            "Start a savings plan and emergency fund",
+            "Invest in a retirement account"
+          ]
+        },
+        {
+          "week": 5,
+          "focus": "Sustaining Progress",
+          "tasks": [
+            "Maintain a consistent workout routine",
+            "Continue to practice mindfulness and meditation",
+            "Review and adjust the budget and savings plan as needed"
+          ]
+        },
+        {
+          "week": 6,
+          "focus": "Building Habits",
+          "tasks": [
+            "Use the Habitica app to track habits",
+            "Learn about the habit loop using The Habit Loop article",
+            "Read Mindful.org articles"
+          ]
+        },
+        {
+          "week": 7,
+          "focus": "Mindfulness and Meditation",
+          "tasks": [
+            "Practice mindfulness and meditation using the Insight Timer app",
+            "Read The Power of Now",
+            "Watch TED Talks on Mindset"
+          ]
+        },
+        {
+          "week": 8,
+          "focus": "Review and Adjust",
+          "tasks": [
+            "Review progress and adjust the daily routine as needed",
+            "Review and adjust the workout plan as needed",
+            "Review and adjust the morning routine as needed"
+          ]
+        }
+      ],
+      "resources": [
+        {
+          "title": "Headspace Meditation App",
+          "type": "app",
+          "url": "https://www.headspace.com/"
+        }
+      ],
+      "is_primary": true,
+      "progress": 0,
+      "created_at": "2026-06-08T19:34:18.027Z",
+      "updated_at": "2026-06-08T19:34:18.027Z"
+    },
+    {
+      "id": "4384b03a-dc79-4c18-8003-8768c9510faf",
+      "user_id": "local_user_1",
+      "goal": "Land the first internship",
+      "estimated_duration": "6 months",
+      "phases": [
+        {
+          "title": "Phase 1: Portfolio Building",
+          "durationWeeks": 4,
+          "objectives": [
+            "Build 2 personal projects",
+            "Create a portfolio website",
+            "Write 2-3 technical blog posts"
+          ],
+          "resources": [
+            {
+              "title": "FreeCodeCamp",
+              "type": "course",
+              "url": "https://www.freecodecamp.org/"
+            },
+            {
+              "title": "React Documentation",
+              "type": "article",
+              "url": "https://reactjs.org/docs/getting-started.html"
+            },
+            {
+              "title": "Node.js Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=U8XF6NTkOwa"
+            }
+          ],
+          "projects": [
+            {
+              "title": "To-Do List App",
+              "description": "Build a to-do list app using React and Node.js"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Research project ideas",
+              "priority": "low",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Create a new React project",
+              "priority": "medium",
+              "estimatedHours": 4
+            },
+            {
+              "title": "Design the database schema",
+              "priority": "medium",
+              "estimatedHours": 4
+            },
+            {
+              "title": "Implement authentication",
+              "priority": "high",
+              "estimatedHours": 8
+            }
+          ],
+          "milestone": "Complete 1 personal project"
+        },
+        {
+          "title": "Phase 2: Networking and Interview Preparation",
+          "durationWeeks": 4,
+          "objectives": [
+            "Attend 2-3 industry events",
+            "Connect with 10 professionals on LinkedIn",
+            "Prepare answers to common interview questions"
+          ],
+          "resources": [
+            {
+              "title": "Cracking the Coding Interview",
+              "type": "book",
+              "url": null
+            },
+            {
+              "title": "LeetCode",
+              "type": "practice",
+              "url": "https://leetcode.com/"
+            },
+            {
+              "title": "Glassdoor",
+              "type": "article",
+              "url": "https://www.glassdoor.com/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Interview Practice",
+              "description": "Practice solving problems on LeetCode"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Research industry events",
+              "priority": "low",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Create a LinkedIn profile",
+              "priority": "medium",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Prepare answers to common interview questions",
+              "priority": "high",
+              "estimatedHours": 8
+            },
+            {
+              "title": "Practice solving problems on LeetCode",
+              "priority": "high",
+              "estimatedHours": 8
+            }
+          ],
+          "milestone": "Complete 10 LeetCode problems"
+        },
+        {
+          "title": "Phase 3: Internship Applications",
+          "durationWeeks": 4,
+          "objectives": [
+            "Apply to 10-15 internships per week",
+            "Tailor resume and cover letter for each application",
+            "Prepare for common interview questions"
+          ],
+          "resources": [
+            {
+              "title": "Indeed",
+              "type": "article",
+              "url": "https://www.indeed.com/"
+            },
+            {
+              "title": "Glassdoor",
+              "type": "article",
+              "url": "https://www.glassdoor.com/"
+            },
+            {
+              "title": "LinkedIn Jobs",
+              "type": "article",
+              "url": "https://www.linkedin.com/jobs/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Internship Application Tracker",
+              "description": "Create a spreadsheet to track internship applications"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Research internship opportunities",
+              "priority": "low",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Tailor resume and cover letter",
+              "priority": "medium",
+              "estimatedHours": 4
+            },
+            {
+              "title": "Apply to 10 internships",
+              "priority": "high",
+              "estimatedHours": 8
+            },
+            {
+              "title": "Prepare for common interview questions",
+              "priority": "high",
+              "estimatedHours": 8
+            }
+          ],
+          "milestone": "Apply to 20 internships"
+        },
+        {
+          "title": "Phase 4: Interview Preparation and Follow-up",
+          "durationWeeks": 4,
+          "objectives": [
+            "Prepare for technical interviews",
+            "Follow up on internship applications",
+            "Negotiate internship offers"
+          ],
+          "resources": [
+            {
+              "title": "Cracking the Coding Interview",
+              "type": "book",
+              "url": null
+            },
+            {
+              "title": "LeetCode",
+              "type": "practice",
+              "url": "https://leetcode.com/"
+            },
+            {
+              "title": "Glassdoor",
+              "type": "article",
+              "url": "https://www.glassdoor.com/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Interview Practice",
+              "description": "Practice solving problems on LeetCode"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Prepare for technical interviews",
+              "priority": "high",
+              "estimatedHours": 8
+            },
+            {
+              "title": "Follow up on internship applications",
+              "priority": "medium",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Negotiate internship offers",
+              "priority": "high",
+              "estimatedHours": 4
+            },
+            {
+              "title": "Practice solving problems on LeetCode",
+              "priority": "high",
+              "estimatedHours": 8
+            }
+          ],
+          "milestone": "Complete 1 technical interview"
+        },
+        {
+          "title": "Phase 5: Final Preparation and Evaluation",
+          "durationWeeks": 4,
+          "objectives": [
+            "Finalize internship preparations",
+            "Evaluate internship experiences",
+            "Plan for future career development"
+          ],
+          "resources": [
+            {
+              "title": "Career Development Book",
+              "type": "book",
+              "url": null
+            },
+            {
+              "title": "Industry Blog",
+              "type": "article",
+              "url": "https://www.industryblog.com/"
+            },
+            {
+              "title": "LinkedIn Learning",
+              "type": "course",
+              "url": "https://www.linkedin.com/learning/"
+            }
+          ],
+          "projects": [
+            {
+              "title": "Career Development Plan",
+              "description": "Create a plan for future career development"
+            }
+          ],
+          "tasks": [
+            {
+              "title": "Finalize internship preparations",
+              "priority": "medium",
+              "estimatedHours": 2
+            },
+            {
+              "title": "Evaluate internship experiences",
+              "priority": "high",
+              "estimatedHours": 4
+            },
+            {
+              "title": "Plan for future career development",
+              "priority": "high",
+              "estimatedHours": 8
+            },
+            {
+              "title": "Create a career development plan",
+              "priority": "high",
+              "estimatedHours": 8
+            }
+          ],
+          "milestone": "Complete career development plan"
+        }
+      ],
+      "milestones": [
+        {
+          "title": "Complete 1 personal project",
+          "weekNumber": 4,
+          "description": "Complete 1 personal project to demonstrate skills"
+        },
+        {
+          "title": "Complete 10 LeetCode problems",
+          "weekNumber": 8,
+          "description": "Complete 10 LeetCode problems to improve problem-solving skills"
+        },
+        {
+          "title": "Apply to 20 internships",
+          "weekNumber": 12,
+          "description": "Apply to 20 internships to increase chances of getting hired"
+        },
+        {
+          "title": "Complete 1 technical interview",
+          "weekNumber": 16,
+          "description": "Complete 1 technical interview to gain experience"
+        },
+        {
+          "title": "Complete career development plan",
+          "weekNumber": 20,
+          "description": "Complete career development plan to plan for future career development"
+        }
+      ],
+      "weekly_plan": [
+        {
+          "week": 1,
+          "focus": "Research project ideas",
+          "tasks": ["Research project ideas", "Create a new React project"]
+        },
+        {
+          "week": 2,
+          "focus": "Design database schema",
+          "tasks": ["Design database schema", "Implement authentication"]
+        },
+        {
+          "week": 3,
+          "focus": "Build personal project",
+          "tasks": ["Build personal project", "Test and debug personal project"]
+        },
+        {
+          "week": 4,
+          "focus": "Complete 1 personal project",
+          "tasks": ["Complete 1 personal project", "Deploy personal project"]
+        },
+        {
+          "week": 5,
+          "focus": "Research industry events",
+          "tasks": ["Research industry events", "Create a LinkedIn profile"]
+        },
+        {
+          "week": 6,
+          "focus": "Prepare for common interview questions",
+          "tasks": [
+            "Prepare for common interview questions",
+            "Practice solving problems on LeetCode"
+          ]
+        },
+        {
+          "week": 7,
+          "focus": "Apply to internships",
+          "tasks": ["Apply to 10 internships", "Tailor resume and cover letter"]
+        },
+        {
+          "week": 8,
+          "focus": "Complete 10 LeetCode problems",
+          "tasks": ["Complete 10 LeetCode problems", "Prepare for technical interviews"]
+        }
+      ],
+      "resources": [
+        {
+          "title": "FreeCodeCamp",
+          "type": "course",
+          "url": "https://www.freecodecamp.org/"
+        },
+        {
+          "title": "LeetCode",
+          "type": "practice",
+          "url": "https://leetcode.com/"
+        },
+        {
+          "title": "Glassdoor",
+          "type": "article",
+          "url": "https://www.glassdoor.com/"
+        }
+      ],
+      "is_primary": false,
+      "progress": 0,
+      "created_at": "2026-06-08T20:22:01.609Z",
+      "updated_at": "2026-06-08T20:22:01.609Z"
+    }
+  ],
+  "roadmap_tasks": [],
+  "career_reports": [
+    {
+      "id": "0aff5dac-270c-4964-a97f-9a49d1e1feaf",
+      "user_id": "local_user_1",
+      "readiness_score": 60,
+      "placement_probability": 70,
+      "dream_company": "a top-tier tech company",
+      "dream_role": "Software Engineer",
+      "skill_gaps": [
+        {
+          "skill": "Data Structures and Algorithms",
+          "severity": "high",
+          "weeksToClose": 12
+        },
+        {
+          "skill": "System Design",
+          "severity": "medium",
+          "weeksToClose": 8
+        },
+        {
+          "skill": "Testing and Debugging",
+          "severity": "low",
+          "weeksToClose": 4
+        }
+      ],
+      "suggested_projects": [
+        {
+          "title": "Personal Expense Tracker",
+          "impact": "Demonstrate React and TypeScript skills",
+          "estWeeks": 4
+        },
+        {
+          "title": "Real-time Chat Application",
+          "impact": "Showcase Node.js and WebSocket skills",
+          "estWeeks": 8
+        }
+      ],
+      "salary_projection": {
+        "low": 15,
+        "high": 25,
+        "currency": "INR",
+        "unit": "LPA"
+      },
+      "company_match": {
+        "company": "Google",
+        "matchPct": 60,
+        "topRecruiters": ["Google", "Amazon", "Microsoft"],
+        "interviewFocus": ["Data Structures and Algorithms", "System Design", "React and Node.js"]
+      },
+      "interview_topics": [
+        {
+          "topic": "Data Structures and Algorithms",
+          "weight": 0.4
+        },
+        {
+          "topic": "System Design",
+          "weight": 0.3
+        },
+        {
+          "topic": "React and Node.js",
+          "weight": 0.2
+        },
+        {
+          "topic": "Testing and Debugging",
+          "weight": 0.1
+        }
+      ],
+      "timeline_estimate": "6 months",
+      "raw": {
+        "analysis": "Aryan Garg has a strong foundation in React, TypeScript, and Node.js, with 2 years of experience in building React apps. However, the lack of projects and a relatively low CGPA may impact placement probability. Focused efforts on building a portfolio and improving skills can enhance readiness.",
+        "actionItems": [
+          "Develop a portfolio of personal projects showcasing React, TypeScript, and Node.js skills",
+          "Improve CGPA to increase placement probability",
+          "Prepare for technical interviews with a focus on software engineering concepts"
+        ],
+        "timeline": "6 months",
+        "priority": "high",
+        "confidence": 0.8,
+        "data": {
+          "readinessScore": 60,
+          "placementProbability": 70,
+          "skillGaps": [
+            {
+              "skill": "Data Structures and Algorithms",
+              "severity": "high",
+              "weeksToClose": 12
+            },
+            {
+              "skill": "System Design",
+              "severity": "medium",
+              "weeksToClose": 8
+            },
+            {
+              "skill": "Testing and Debugging",
+              "severity": "low",
+              "weeksToClose": 4
+            }
+          ],
+          "suggestedProjects": [
+            {
+              "title": "Personal Expense Tracker",
+              "impact": "Demonstrate React and TypeScript skills",
+              "estWeeks": 4
+            },
+            {
+              "title": "Real-time Chat Application",
+              "impact": "Showcase Node.js and WebSocket skills",
+              "estWeeks": 8
+            }
+          ],
+          "salaryProjection": {
+            "low": 15,
+            "high": 25,
+            "currency": "INR",
+            "unit": "LPA"
+          },
+          "companyMatch": {
+            "company": "Google",
+            "matchPct": 60,
+            "topRecruiters": ["Google", "Amazon", "Microsoft"],
+            "interviewFocus": [
+              "Data Structures and Algorithms",
+              "System Design",
+              "React and Node.js"
+            ]
+          },
+          "interviewTopics": [
+            {
+              "topic": "Data Structures and Algorithms",
+              "weight": 0.4
+            },
+            {
+              "topic": "System Design",
+              "weight": 0.3
+            },
+            {
+              "topic": "React and Node.js",
+              "weight": 0.2
+            },
+            {
+              "topic": "Testing and Debugging",
+              "weight": 0.1
+            }
+          ],
+          "timelineEstimate": "6 months"
+        }
+      },
+      "created_at": "2026-06-08T19:33:17.939Z"
+    }
+  ],
+  "coach_conversations": [
+    {
+      "id": "e820a933-81ad-40f5-af6b-5bf2d0730924",
+      "user_id": "local_user_1",
+      "title": "Act as my career strategist. Review my roadmap",
+      "created_at": "2026-06-08T20:21:36.628Z",
+      "updated_at": "2026-06-08T20:21:36.628Z"
+    }
+  ],
+  "coach_messages": [
+    {
+      "id": "e052d2eb-3185-41e5-a378-3050ea8f60de",
+      "conversation_id": "e820a933-81ad-40f5-af6b-5bf2d0730924",
+      "user_id": "local_user_1",
+      "role": "user",
+      "content": "Act as my career strategist. Review my roadmap",
+      "created_at": "2026-06-08T20:21:38.902Z"
+    },
+    {
+      "id": "4aead0d5-8aed-45b5-9e6c-1eef0dce527c",
+      "conversation_id": "e820a933-81ad-40f5-af6b-5bf2d0730924",
+      "user_id": "local_user_1",
+      "role": "assistant",
+      "content": "## Career Roadmap Review\n### Current Status\n- Name: Aryan Garg\n- Education: BTech CSE (2nd year)\n- CGPA: 8\n- Current skills: React, TypeScript, Node.js\n- Experience: 2 years building React apps\n- Projects: None\n- Dream role: Unspecified\n- Dream company: Unspecified\n- Target timeline: 6 months\n\n### Strengths\n- Strong foundation in computer science with a high CGPA\n- Proficiency in modern technologies like React, TypeScript, and Node.js\n- Early start in gaining experience in building React apps\n\n### Weaknesses\n- Lack of projects to demonstrate skills and experience\n- No clear definition of dream role or dream company\n- Limited experience in other areas of software development\n\n### Recommendations\nTo enhance your career prospects within the next 6 months, consider the following:\n\n#### 1. **Project Development**\n- **Create personal projects**: Develop 2-3 personal projects showcasing your skills in React, TypeScript, and Node.js.\n- **Contribute to open-source projects**: Participate in open-source projects on platforms like GitHub to gain experience and build your network.\n\n#### 2. **Skill Enhancement**\n- **Expand your tech stack**: Learn additional technologies that complement your current skills, such as GraphQL, MongoDB, or AWS.\n- **Soft skills development**: Focus on improving your communication, teamwork, and problem-solving skills.\n\n#### 3. **Career Exploration**\n- **Define your dream role**: Research and identify roles that align with your interests and skills, such as front-end developer, full-stack developer, or DevOps engineer.\n- **Dream company research**: Investigate companies that match your career aspirations and values.\n\n#### 4. **Networking**\n- **Attend industry events**: Participate in conferences, meetups, or webinars to connect with professionals in your desired field.\n- **Build an online presence**: Create a professional LinkedIn profile and engage with relevant communities.\n\n#### 5. **Internship or Part-time Job**\n- **Apply for internships**: Look for internships or part-time jobs that match your skills and interests to gain more experience and build your network.\n\nBy following these recommendations, you can strengthen your profile, gain more experience, and move closer to your career goals within the next 6 months.",
+      "created_at": "2026-06-08T20:21:38.902Z"
+    }
+  ],
+  "schedule_blocks": [
+    {
+      "id": "b9a997c4-7224-4eaf-b5d5-67b0964933bc",
+      "user_id": "local_user_1",
+      "day_date": "2026-06-08",
+      "start_time": "09:00",
+      "end_time": "11:30",
+      "title": "Deep Work: React Mastery & Perf",
+      "tag": "Focus",
+      "color": "#6c5ce7",
+      "status": "done",
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T19:31:01.548Z"
+    },
+    {
+      "id": "84ec06f1-b7e7-4511-89ab-f1cd689ab379",
+      "user_id": "local_user_1",
+      "day_date": "2026-06-08",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "title": "Lunch & Walk / Break",
+      "tag": "Rest",
+      "color": "#22c55e",
+      "status": "done",
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T19:31:01.548Z"
+    },
+    {
+      "id": "42bec931-cf34-4a16-b972-b0879894d4ef",
+      "user_id": "local_user_1",
+      "day_date": "2026-06-08",
+      "start_time": "12:30",
+      "end_time": "14:30",
+      "title": "Algorithm Practice (Graphs & DP)",
+      "tag": "Learning",
+      "color": "#ff6b35",
+      "status": "pending",
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T19:31:01.548Z"
+    },
+    {
+      "id": "144c1c63-2a4b-45b4-aca7-b829722917fb",
+      "user_id": "local_user_1",
+      "day_date": "2026-06-08",
+      "start_time": "15:00",
+      "end_time": "17:30",
+      "title": "Project Build: Full Stack AI App",
+      "tag": "Focus",
+      "color": "#e84393",
+      "status": "pending",
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T19:31:01.548Z"
+    },
+    {
+      "id": "037c2eb6-de3e-4939-9f74-b8a44152ed37",
+      "user_id": "local_user_1",
+      "day_date": "2026-06-08",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "title": "gym time",
+      "tag": "Build",
+      "color": "#a855f7",
+      "status": "pending",
+      "created_at": "2026-06-08T20:21:16.123Z",
+      "updated_at": "2026-06-08T20:21:16.123Z"
+    }
+  ],
+  "weekly_goals": [
+    {
+      "id": "7d47e2d8-e3b7-4667-97fe-5eef8cd3bdff",
+      "user_id": "local_user_1",
+      "week_start_date": "2026-06-07",
+      "title": "Complete System Design Course",
+      "target": 5,
+      "done": 5,
+      "color": "#6c5ce7",
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T20:21:24.789Z"
+    },
+    {
+      "id": "4e9037a8-ad40-47a3-973c-b3a3c478ad0b",
+      "user_id": "local_user_1",
+      "week_start_date": "2026-06-07",
+      "title": "Solve LeetCode Medium/Hard",
+      "target": 15,
+      "done": 12,
+      "color": "#ff9466",
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T19:31:01.548Z"
+    },
+    {
+      "id": "447d6a32-ea14-4ef7-a703-6097d14c6bc4",
+      "user_id": "local_user_1",
+      "week_start_date": "2026-06-07",
+      "title": "Ship 1 Portfolio Project",
+      "target": 1,
+      "done": 0,
+      "color": "#e84393",
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T19:31:01.548Z"
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "7e22416b-56e4-4acd-b5dd-78ba79b44c02",
+      "user_id": "local_user_1",
+      "title": "Stripe Onsite Interview",
+      "due_date": "2026-06-11",
+      "urgent": true,
+      "color": "#e84393",
+      "done": false,
+      "created_at": "2026-06-08T19:31:01.548Z",
+      "updated_at": "2026-06-08T19:31:01.548Z"
+    },
+    {
+      "id": "7af5ded6-1bfc-4874-922f-be151d5139d6",
+      "user_id": "local_user_1",
+      "title": "Submit Open Source PR",
+      "due_date": "2026-06-14",
+      "urgent": false,
+      "color": "#06b6d4",
+      "done": false,
+      "created_at": "2026-06-08T19:31:01.549Z",
+      "updated_at": "2026-06-08T19:31:01.549Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": "7a9e25a3-25b3-4f39-917f-5e0818174133",
+      "user_id": "local_user_1",
+      "title": "System Design Cheat Sheet",
+      "body": "CAP Theorem, Consistency Patterns (Strong vs Eventual). Remember to discuss tradeoffs in every interview question. Read Dynamo paper.",
+      "color": "#fdeee1",
+      "pinned": true,
+      "created_at": "2026-06-08T19:31:01.549Z",
+      "updated_at": "2026-06-08T19:31:01.549Z"
+    },
+    {
+      "id": "71bb9af7-943d-472e-b674-600b636a8423",
+      "user_id": "local_user_1",
+      "title": "Behavioral Prep",
+      "body": "- Tell me about a time you failed: Use the migration project from last year.\n- Biggest technical challenge: Building the realtime websocket server with scaling issues.",
+      "color": "#f7dcc6",
+      "pinned": false,
+      "created_at": "2026-06-08T19:31:01.549Z",
+      "updated_at": "2026-06-08T19:31:01.549Z"
+    }
+  ],
+  "mood_checkins": [
+    {
+      "id": "f9f9031d-3713-46e0-83d1-d56f02981774",
+      "user_id": "local_user_1",
+      "day_date": "2026-06-08",
+      "mood": "OK",
+      "energy": 58,
+      "focus_score": 8,
+      "created_at": "2026-06-08T19:31:01.549Z",
+      "updated_at": "2026-06-08T20:21:31.838Z"
+    }
+  ],
+  "progress_events": []
+}
