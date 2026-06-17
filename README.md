@@ -1,4 +1,4 @@
-# VedaGlows 🌿
+# VedaGlows
 
 > **A simple 28-day Ayurvedic ritual to reduce breakouts, balance oil and restore your natural glow. Made for Indian skin.**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **VedaGlows** is a premium, high-performance e-commerce web application specializing in modernized Ayurvedic skincare. The project is designed with a premium, organic aesthetic utilizing HSL/OKLCH color themes, smooth micro-animations, and responsive performance optimizations.
 
@@ -19,18 +19,18 @@ To facilitate instant testing and zero-setup deployment for the **Pinnacle Labs 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🛍️ **Premium Shopping Flow:** A beautiful, responsive interface featuring floating action items, interactive product detail selectors, and persistent drawers.
-- 📐 **Dynamic Tiered Pricing:** Automated shopping cart logic that clusters items into bulk packages dynamically to optimize checkout prices (e.g., triples first, then remaining pairs, then single kits).
-- 🎫 **Advanced Coupon System:** Local coupon validator featuring fixed/percentage discounts and special promotional codes (e.g. `ROHIT5` bundle adjustments).
-- 💳 **Secure Checkout Form:** Fully functional address validation, online (Razorpay mock) and COD payment options, complete with automated city/state zip code lookup.
-- 👤 **Customer Dashboard:** Authenticated route layouts `/account` and `/order/$id` to review profile preferences, track orders, check loyalty tiers, and view transaction receipts.
-- 🚀 **Performance Optimizations:** Deferral of below-the-fold component parsing using CSS `content-visibility: auto`, alongside mobile-specific overrides that drop heavy blurs and battery-draining loops on lower-end devices.
+- **Premium Shopping Flow:** A beautiful, responsive interface featuring floating action items, interactive product detail selectors, and persistent drawers.
+- **Dynamic Tiered Pricing:** Automated shopping cart logic that clusters items into bulk packages dynamically to optimize checkout prices (e.g., triples first, then remaining pairs, then single kits).
+- **Advanced Coupon System:** Local coupon validator featuring fixed/percentage discounts and special promotional codes (e.g. `ROHIT5` bundle adjustments).
+- **Secure Checkout Form:** Fully functional address validation, online (Razorpay mock) and COD payment options, complete with automated city/state zip code lookup.
+- **Customer Dashboard:** Authenticated route layouts `/account` and `/order/$id` to review profile preferences, track orders, check loyalty tiers, and view transaction receipts.
+- **Performance Optimizations:** Deferral of below-the-fold component parsing using CSS `content-visibility: auto`, alongside mobile-specific overrides that drop heavy blurs and battery-draining loops on lower-end devices.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Core:** React 19, TypeScript
 - **Routing & SSR:** TanStack Start, TanStack Router (file-based routing)
@@ -43,7 +43,7 @@ To facilitate instant testing and zero-setup deployment for the **Pinnacle Labs 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Land Page & Product Showcase
 
@@ -59,7 +59,7 @@ To facilitate instant testing and zero-setup deployment for the **Pinnacle Labs 
 
 ---
 
-## 🏛️ Architecture & Folder Structure
+## Architecture & Folder Structure
 
 The project has been organized following industry standards for modularity and scalability:
 
@@ -99,7 +99,7 @@ Project2 - Eccomerce/
 
 ---
 
-## 🚀 Installation & Local Development
+## Installation & Local Development
 
 ### Prerequisites
 
@@ -144,7 +144,7 @@ npm run build
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 The project includes an [.env.example](.env.example) configuration template containing parameters for standard production deployments:
 
@@ -155,6 +155,6 @@ The project includes an [.env.example](.env.example) configuration template cont
 
 ---
 
-## 🛡️ License
+## License
 
 This project is open-source software licensed under the [MIT License](LICENSE).
